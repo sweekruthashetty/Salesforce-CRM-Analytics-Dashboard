@@ -1,8 +1,8 @@
 # Salesforce-CRM-Analytics-Dashboard
 
-# A Power BI dashboard for Salesforce CRM Analytics that provides actionable insights into lead conversion, opportunity tracking, sales pipeline performance, and revenue analysis through interactive visualizations and KPIs.
+### A Power BI dashboard for Salesforce CRM Analytics that provides actionable insights into lead conversion, opportunity tracking, sales pipeline performance, and revenue analysis through interactive visualizations and KPIs.
 
-# Project Purpose
+##### Project Purpose
 The purpose of this dashboard is to help sales teams and business stakeholders:
 -Track Lead and Opportunity performance using key KPIs.
 -Measure conversion rates, win rates, and revenue.
@@ -11,11 +11,11 @@ The purpose of this dashboard is to help sales teams and business stakeholders:
 -Monitor sales trends over time to improve forecasting and strategic decision-making.
 
 🛠 Tech Stack
-# Power BI Desktop – Dashboard development and visualization
-# Power Query – Data extraction, cleaning, and transformation (ETL)
-# DAX (Data Analysis Expressions) – KPI calculations and business metrics
-# Salesforce CRM Dataset – Lead and Opportunity data source
-# Data Modeling – Relationships between Leads, Opportunities, Industry, Stage, and Time dimensions
+  Power BI Desktop – Dashboard development and visualization
+  Power Query – Data extraction, cleaning, and transformation (ETL)
+  DAX (Data Analysis Expressions) – KPI calculations and business metrics
+  Salesforce CRM Dataset – Lead and Opportunity data source
+  Data Modeling – Relationships between Leads, Opportunities, Industry, Stage, and Time dimensions
 
 Interactive Slicers – Dynamic filtering by Lead Source, Industry, Status, Stage, and Year
 
@@ -36,7 +36,6 @@ Responsive dashboard navigation between pages
 🚀 Project Highlights
 
 📌 Business Problem
-
 Sales teams often struggle to monitor lead conversion, opportunity progress, and revenue performance across multiple dimensions. Without centralized reporting, it becomes difficult to identify high-performing lead sources, understand pipeline health, and make informed sales decisions.
 
 🎯 Goal of the Dashboard
@@ -44,24 +43,7 @@ Sales teams often struggle to monitor lead conversion, opportunity progress, and
 --Measure conversion, win, and loss rates.
 --Track revenue performance and expected sales.
 --Identify the most effective lead sources and industries.
---Support management with data-driven decision-making through interactive reporting.
-
-📊 Key Visuals
-Lead Performance Dashboard
-KPI Cards (Total Leads, Conversion Rate, Converted Accounts, Converted Opportunities, Average Lead Score)
-Year-wise Lead Trend (Line Chart)
-Conversion Rate by Lead Source (Bar Chart)
-Lead Distribution by Source (Donut Chart)
-Leads by Status (Bar Chart)
-Leads by Industry (Bar Chart)
-Lead Source Performance Matrix
-Opportunity Performance Dashboard
-KPI Cards (Total Opportunities, Open Opportunities, Win Rate, Loss Rate, Closed Opportunities, Won Revenue)
-Opportunity by Stage (Bar Chart)
-Won vs Lost Opportunities Trend (Line Chart)
-Industry-wise Won vs Lost Opportunities (Stacked Bar Chart)
-Closed Lost Reasons Analysis
-Expected Revenue by Stage
+--Support management with data-driven decision-making through interactive reporting
 
 Opportunity Details Table
 
@@ -79,8 +61,8 @@ Reduced manual reporting by providing automated, interactive dashboards.
 -Certain industries consistently generated more leads and successful opportunities, helping prioritize high-value market segments.
 -A significant share of opportunities remained in open stages, indicating areas where pipeline progression can be improved.
 -Closed Lost Reason analysis identified recurring causes of lost deals, enabling the sales team to refine strategies and reduce future losses.
+-Year-over-year trend analysis revealed changes in lead generation and opportunity outcomes, supporting more accurate sales forecasting.
+-Revenue and expected amount analysis helped management focus on high-value opportunities and optimize resource allocation.
 
 DASHBOARD
-
-Year-over-year trend analysis revealed changes in lead generation and opportunity outcomes, supporting more accurate sales forecasting.
-Revenue and expected amount analysis helped management focus on high-value opportunities and optimize resource allocation.
+https://github.com/sweekruthashetty/Salesforce-CRM-Analytics-Dashboard/blob/main/CRM%20Lead%20Snapshot.png
