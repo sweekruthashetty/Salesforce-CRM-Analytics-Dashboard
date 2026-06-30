@@ -57,12 +57,19 @@ Reduced manual reporting by providing automated, interactive dashboards.
 
 📈 Key Business Insights
 -Website and Field Sales channels delivered the highest lead conversion rates, making them the most effective acquisition sources.
+
 -Nurturing and Prospect stages contained the highest volume of leads, highlighting opportunities for targeted follow-up -campaigns.
+
 -Certain industries consistently generated more leads and successful opportunities, helping prioritize high-value market segments.
+
 -A significant share of opportunities remained in open stages, indicating areas where pipeline progression can be improved.
+
 -Closed Lost Reason analysis identified recurring causes of lost deals, enabling the sales team to refine strategies and reduce future losses.
+
 -Year-over-year trend analysis revealed changes in lead generation and opportunity outcomes, supporting more accurate sales forecasting.
+
 -Revenue and expected amount analysis helped management focus on high-value opportunities and optimize resource allocation.
 
 DASHBOARD
 https://github.com/sweekruthashetty/Salesforce-CRM-Analytics-Dashboard/blob/main/CRM%20Lead%20Snapshot.png
+<img width="619" height="368" alt="image" src="https://github.com/user-attachments/assets/de8d6d2b-f36a-470e-941c-cde33678f2c8" />
