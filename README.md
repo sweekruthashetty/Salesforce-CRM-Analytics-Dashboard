@@ -71,5 +71,6 @@ Reduced manual reporting by providing automated, interactive dashboards.
 -Revenue and expected amount analysis helped management focus on high-value opportunities and optimize resource allocation.
 
 DASHBOARD
-https://github.com/sweekruthashetty/Salesforce-CRM-Analytics-Dashboard/blob/main/CRM%20Lead%20Snapshot.png
+
 <img width="619" height="368" alt="image" src="https://github.com/user-attachments/assets/de8d6d2b-f36a-470e-941c-cde33678f2c8" />
+<img width="581" height="373" alt="image" src="https://github.com/user-attachments/assets/6427d118-fac2-4c06-80a7-6d71fd0562ca" />
